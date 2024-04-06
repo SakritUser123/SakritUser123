@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SakritUser123
-- 👀 I’m interested about coding in javascript.
-- 🌱 I’m currently learning javascript.
+- 👀 I’m interested about machine learning and electrical circuit in python
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on github .
 - 📫 How to reach me veerendrasakthi.prabhurajan@gmail.com.
 
