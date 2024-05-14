@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SakritUser123
 - 👀 I’m interested about machine learning and electrical circuit in python
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and working on FLL competitive robotics at my school.
 - 💞️ I’m looking to collaborate on github .
 - 📫 How to reach me veerendrasakthi.prabhurajan@gmail.com.
 
