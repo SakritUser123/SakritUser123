@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SakritUser123
-- 👀 I’m interested about machine learning and electrical circuit in python
+- 👀 I’m interested about deep learning and robotics in python
 - I have many programming awards such as the PCEP CERTIFICATION.I will soon be taking the PCAP Associate Level Python Programmer.
 - 🌱 I’m currently learning python and java.I am working on FLL competitive robotics at my school.I am currently doing Leetcode in my free time.
 - 💞️ I’m looking to collaborate on github .
