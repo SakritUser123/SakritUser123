@@ -5,6 +5,9 @@
 - 💞️ I’m looking to collaborate on github .
 - 📫 How to reach me veerendrasakthi.prabhurajan@gmail.com.
 
+My certificate for completing Machine Learning Course:
+![Veerendrasakthi P  - Intro to Machine Learning](https://github.com/user-attachments/assets/9c56b2a3-eab3-4fc9-87d7-e3f5078b104f)
+
 <!---
 SakritUser123/SakritUser123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
