@@ -25,6 +25,7 @@ This is my Linkedin Account:
 https://www.linkedin.com/in/sakthi-prabhurajan-b220912b1/
 
 These are my Medium Blogs:
+https://medium.com/@veerendrasakthi.prabhurajan/lstm-sentiment-analyzer-afc2642eb1b9
 
 https://medium.com/@veerendrasakthi.prabhurajan/my-coding-experience-3e45635af22c
 
