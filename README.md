@@ -15,13 +15,13 @@ You can click the Preview link to take a look at your changes.
 This is my PCEP Certificate!
 [certificate_3mNc.DPg1.cxmU (1).pdf](https://github.com/user-attachments/files/16356344/certificate_3mNc.DPg1.cxmU.1.pdf)
 
-This is Kaggle Account:
+Kaggle Account:
 https://www.kaggle.com/veerendrasakthip
 
-This is my HuggingFace Profile:
+HuggingFace Profile:
 https://huggingface.co/Sakrit123
 
-This is my Linkedin Account:
+Linkedin Account:
 https://www.linkedin.com/in/sakthi-prabhurajan-b220912b1/
 
 These are my Medium Blogs:
@@ -31,6 +31,9 @@ https://medium.com/@veerendrasakthi.prabhurajan/my-coding-experience-3e45635af22
 
 https://medium.com/@veerendrasakthi.prabhurajan/future-of-ai-6ebe2c8cc2f7
 
+
+My Kaggle Badges (I will update these):
+<img width="488" alt="Screenshot 2025-01-09 at 7 05 31 PM" src="https://github.com/user-attachments/assets/ad0a6f7a-84d3-4683-a08d-40d7f50b5b6e" />
 
 
 
