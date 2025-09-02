@@ -15,6 +15,9 @@ You can click the Preview link to take a look at your changes.
 This is my PCEP Certificate!
 [certificate_3mNc.DPg1.cxmU (1).pdf](https://github.com/user-attachments/files/16356344/certificate_3mNc.DPg1.cxmU.1.pdf)
 
+This is My Supervised Machine Learning Certificate From Andrew Ng at Stanford!
+[Coursera 9G7TYS4OKPTH.pdf](https://github.com/user-attachments/files/22100368/Coursera.9G7TYS4OKPTH.pdf)
+
 Kaggle Account:
 https://www.kaggle.com/veerendrasakthip
 
